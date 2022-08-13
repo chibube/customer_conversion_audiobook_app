@@ -1,5 +1,6 @@
-# customer_conversion_audiobook_app
-
+# Customer_Conversion_Audiobook_App
+## Problem statement
+  Can we predict which customers will convert? if yes, it will help the company's marketing team in target ads to consolidate and possible increase the conversion rate     with target ads and possible insentives.
 
 ## Data gathering process:
   Data was gathered from the audiobook app, and it represents 2 years and 6 months’ worth of engagement on the audiobook app, we will take an additional 6 months after     the 2 years to check for conversion as we are going to assume that if a user does not return after 6 months, they might never return.
